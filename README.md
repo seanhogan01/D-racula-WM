@@ -1,5 +1,5 @@
 # D-racula-WM
-Dracula DWM rice
+Dracula themed DWM rice and other configs.
 
 OS - Arch Linux
 Window Manager - DWM
