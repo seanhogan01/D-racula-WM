@@ -1,6 +1,8 @@
 # D-racula-WM
 Dracula themed DWM rice and other configs.
 
+###########################################
+
 OS - Arch Linux
 
 Window Manager - DWM
@@ -17,6 +19,7 @@ Browser - Brave-Beta
 
 Player - Spotify
 
+###########################################
 
 Hello! This is my rice of DWM with the dracula colour scheme.
 
