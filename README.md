@@ -7,6 +7,8 @@ OS - Arch Linux
 
 Window Manager - DWM
 
+Bar - lightly customised https://github.com/joestandring/dwm-bar
+
 Terminal - ST
 
 Compositor - Picom (stock)
