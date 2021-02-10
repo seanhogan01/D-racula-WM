@@ -25,4 +25,5 @@ I have my wallpaper location as ~/Pictures/arch.jpg so either copy that or edit 
 
 ![Screenshot.png](https://raw.githubusercontent.com/seanhogan01/D-racula-WM/main/Screenshot.png)
 
-This is by no means a well put together repo so no guarantees and I recommend changing the keybinds to you're liking.
+This is by no means a well put together repo so no guarantees. 
+I recommend changing keybinds to ones preference.
