@@ -1,5 +1,5 @@
 # D-racula-WM
-Dracula themed DWM rice and other configs.
+My Dracula themed DWM rice and other configs.
 
 ###########################################
 
