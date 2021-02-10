@@ -2,13 +2,13 @@
 
 ## AUTOSTARTS ##
 picom &
-xwallpaper --zoom /home/sean/Pictures/arch.jpg &
+xwallpaper --zoom ~/Pictures/arch.jpg &
 
 ## BAR/STATUS SCRIPT ##
 
 
 LOC=$(readlink -f "$0")
-DIR=$(dirname "/home/sean/.config/dwm-bar/bar-functions/")
+DIR=$(dirname "~/.config/dwm-bar/bar-functions/")
 
 export IDENTIFIER="unicode"
 export SEP1=" | "
@@ -28,5 +28,5 @@ do
     dispstr="$dispstr$(dwm_date)"
 
     xsetroot -name "$dispstr"
-    sleep 0.5
+    sleep 1
 done
