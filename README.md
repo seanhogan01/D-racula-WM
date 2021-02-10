@@ -23,4 +23,4 @@ To install simply:
 There is a script included that should set up the bar, launch the compositor and set the wallpaper (using xwallpaper).
 I have my wallpaper location as ~/Pictures/arch.jpg so either copy that or edit the script to your preference. The wallpaper I use is included.
 
-![Screenshot.png](img/https://raw.githubusercontent.com/seanhogan01/D-racula-WM/main/Screenshot.png)
+![Screenshot.png](https://raw.githubusercontent.com/seanhogan01/D-racula-WM/main/Screenshot.png)
