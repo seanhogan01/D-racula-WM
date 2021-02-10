@@ -17,6 +17,7 @@ Browser - Brave-Beta
 
 Player - Spotify
 
+
 Hello! This is my rice of DWM with the dracula colour scheme.
 
 Most of Dotfiles are forked from DistroTubes repo and customised. (https://gitlab.com/dwt1/dotfiles) I'm a big fan and you should check out his channel on youtube.
