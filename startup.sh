@@ -5,8 +5,6 @@ picom &
 xwallpaper --zoom ~/Pictures/arch.jpg &
 
 ## BAR/STATUS SCRIPT ##
-
-
 LOC=$(readlink -f "$0")
 DIR=$(dirname "~/.config/dwm-bar/bar-functions/")
 
@@ -26,7 +24,6 @@ do
     dispstr="$dispstr$(dwm_battery)"
     dispstr="$dispstr$(dwm_alsa)"
     dispstr="$dispstr$(dwm_date)"
-
     xsetroot -name "$dispstr"
     sleep 1
 done
